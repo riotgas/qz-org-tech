@@ -15,9 +15,9 @@
 | Arbuz.kz                 | Мобильный сервис |                   |                           |                  |                           |
 | AtyrauTechInvest         | Аутсорсинг     |                   |                           |                  |                           |
 | Aviata.kz                | Мобильный сервис |                   |                           |                  |                           |
-| Bank CenterCredit        | Финансы        | Go, Java, C#      | Spring Boot, Asp.Net      |PostgreSQL, Oracle|Camunda, Kafka, Redis, Kubernetes, GitLab-CI|
+| Bank CenterCredit        | Финансы        | Go, Java, C#      | Spring Boot, Asp.Net      | PostgreSQL, Oracle| Camunda, Kafka, Redis, Kubernetes, GitLab-CI|
 | Beeline                  | Телеком        | Java              | Spring Boot               |                  |                           |
-| BerekeBank               | Финансы        |                   |                           |                  |                           |
+| BerekeBank               | Финансы        | Java, Go          | Spring Boot               | PostgreSQL, Oracle | Camunda, Kafka, Redis, Kubernetes |
 | BI Group (BIG App)       | Девелопмент    | Java, C#          | Spring Boot, .NET         | PostgreSQL       | K8s                       |
 | BTS-Digital              | GovTech        | Java              | Spring Boot               | PostgreSQL       |                           |
 | Choco Holding            | Ритейл         |                   |                           |                  |                           |
